@@ -74,6 +74,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ## 2. Download and Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 
 <img src="https://github.com/user-attachments/assets/b5639352-dd84-410b-89ba-6d554272cb4b" width="325" height="250"><img src="https://github.com/user-attachments/assets/a1ae1aaf-a508-4eec-a4c4-b1edcf5a7bb2" width="325" height="250"><img src="https://github.com/user-attachments/assets/6d1a6bff-267c-47f9-ab35-3dca2397feda" width="325" height="250">
+### 🛠️ PHP Manager for IIS Installation
+
+1. Open **PHPManagerForIIS-V1.5.0**.
+2. Click **Next** to begin the installation.
+3. Accept the license agreement by selecting **I Agree**, then click **Next** to continue.
+
+
+
+
 </p>
 <br />
 
