@@ -79,6 +79,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 1. Open **PHPManagerForIIS-V1.5.0**.
 2. Click **Next** to begin the installation.
 3. Accept the license agreement by selecting **I Agree**, then click **Next** to continue.
+> 💡 *Note: All required areas have been highlighted for your convenience.*
 ## 3. Download and Install the Rewrite Module (rewrite_amd64_en-US.msi)
 
 
