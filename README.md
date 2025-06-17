@@ -10,6 +10,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -30,9 +31,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item HeidiSQL
 - Item osTicket-v1.15.8.zip
 
+## Installation Steps:
 
 
-<img src="https://github.com/user-attachments/assets/e84ac530-4c2d-41b2-9ff9-4ee00fc9b7f4" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/928bf796-15c7-493b-ba20-35ee05ce3cb2" width="325" height="250">
 
 
 
