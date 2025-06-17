@@ -6,9 +6,9 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+
+
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,13 +22,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Item 1PHP Manager for IIS
+- Item 2Rewrite Module
+- Item 3PHP 7.3.8
+- Item 4VC_redist.x86.exe
+- Item 5MySQL 5.5.62
+HeidiSQL
+osTicket-v1.15.8.zip
 
-<h2>Installation Steps</h2>
+
 
 <p>
 <img src="https:/<img width="329" alt="image" src="https://github.com/user-attachments/assets/38cd65b2-622c-4236-91e0-90b8088b1b23" />
