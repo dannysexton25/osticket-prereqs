@@ -46,8 +46,30 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p> 
+  📋Installation Instructions
+
+  1. **Open the Control Panel** 
+ 
+   Go to the **Start** menu, type **Control Panel** in the search bar, and open it.
+
+2. **Access Programs and Features**  
+   Under **Programs**,click **Uninstall a program**.
+
+3. **Enable Internet Information Services (IIS)**  
+   On the left, click **Turn Windows features on or off**.  
+   Check the box for **Internet Information Services**.
+
+4. **Expand Required Sections**  
+   - Expand **Internet Information Services**
+   - Expand **World Wide Web Services**
+   - Expand **Application Development Features**
+
+5. **Enable CGI**  
+   Check the box for **CGI**, then click **OK** to apply the changes.
+
+> 💡 *Note: All required areas have been highlighted for your convenience.*
+
 </p>
 <br />
 
