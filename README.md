@@ -22,13 +22,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1PHP Manager for IIS
-- Item 2Rewrite Module
-- Item 3PHP 7.3.8
-- Item 4VC_redist.x86.exe
-- Item 5MySQL 5.5.62
-HeidiSQL
-osTicket-v1.15.8.zip
+- Item PHP Manager for IIS
+- Item Rewrite Module
+- Item PHP 7.3.8
+- Item VC_redist.x86.exe
+- Item MySQL 5.5.62
+- Item HeidiSQL
+- Item osTicket-v1.15.8.zip
 
 
 
