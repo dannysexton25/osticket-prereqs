@@ -152,6 +152,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 > 💡 *Note: All required areas have been highlighted for your convenience.*
 > ✅ *You now have PHP 7.3.8 ready to configure in IIS!*
 
+## 6. Download and Install VC_redist.x86.exe.
+
 
 </p>
 <br />
