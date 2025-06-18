@@ -109,6 +109,20 @@ Follow the steps below to install the **IIS URL Rewrite Module**:
 <img src="https://github.com/user-attachments/assets/91fa0138-72d8-4073-873f-e418152114d2" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/0e776c63-a7f7-4ca9-9c7a-070ac9d95401" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/b359c1ff-58a7-4c75-b2dc-bb5daef1977e" width="325" height="250">
+## 4. Create a Directory for PHP on the Local Hard Drive
+
+Follow these steps to create a dedicated folder for PHP files:
+
+1. **Open File Explorer**  
+   Navigate to the local disk where you want to install PHP (usually `C:\`).
+
+2. **Create a New Folder**  
+   Right-click in the desired location and select **New > Folder**.
+
+3. **Name the Folder `PHP`**  
+   Type `PHP` as the folder name and press **Enter**.
+> 💡 *Note: All required areas have been highlighted for your convenience.*
+> ✅ *Tip: This folder will be used later to store PHP runtime files.*
 
 
 
