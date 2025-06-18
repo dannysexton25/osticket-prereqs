@@ -95,11 +95,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/user-attachments/assets/e80d0861-f975-4e09-b5bb-7bfac015f960" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/bbba7b0f-7ceb-43e6-a12e-9881b648c6ac" width="325" height="250">
 
-
-
-
-Follow the steps below to install the **IIS URL Rewrite Module**:
-
 1. **Download the Installer**  
    Click to download `rewrite_amd64_en-US.msi` from the official Microsoft site.
 
@@ -114,9 +109,6 @@ Follow the steps below to install the **IIS URL Rewrite Module**:
 <img src="https://github.com/user-attachments/assets/91fa0138-72d8-4073-873f-e418152114d2" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/0e776c63-a7f7-4ca9-9c7a-070ac9d95401" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/b359c1ff-58a7-4c75-b2dc-bb5daef1977e" width="325" height="250">
-## 4. Create a Directory for PHP on the Local Hard Drive
-
-Follow these steps to create a dedicated folder for PHP files:
 
 1. **Open File Explorer**  
    Navigate to the local disk where you want to install PHP (usually `C:\`).
