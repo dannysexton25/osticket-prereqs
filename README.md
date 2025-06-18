@@ -172,19 +172,13 @@ This step installs the **Visual C++ Redistributable**, which is required for PHP
    - Click **Install** to begin the installation
 > 💡 *Note: All required areas have been highlighted for your convenience.*
 > ✅ *Once the installation completes, you're ready for the next step!*
-## 7. Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi).
+## 7.  Download, Install, and Configure MySQL 5.5.62
 <img src="https://github.com/user-attachments/assets/31e9ccb7-d60a-437c-aa1d-178db10fcdd5" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/03d14391-368e-49e5-b23e-194d477dd4c0" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/1e153048-fd70-487a-bfff-d9011aa0f1cc" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/7ccb3a01-e875-48f2-80db-29bd146bcaa6" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/43b7670f-0633-40f8-b476-8abe30ad9987" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/c97fdee5-aeef-415e-af63-c0b0fd1253d3" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/8a200a25-e5b9-430b-ae65-f9b6e7b19197" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/7c80a9b2-7c1c-41f3-beaa-ec16bfaa6fdc" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/94c987d5-3f69-4b51-8d14-81a23b223cf2" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/b4cc4533-d46f-4e9e-9434-dc93105d72f6" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/f9318b40-e051-4af1-b838-8907bc580aaa" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/0e7514e1-af0c-4532-88a6-0a5489a0b349" width="325" height="250">
 
 Install MySQL 5.5.62 to set up your local database.
 
@@ -205,7 +199,12 @@ Install MySQL 5.5.62 to set up your local database.
 6. **Finish the Installation**  
    Click **Finish** when done.
 ---
-
+<img src="https://github.com/user-attachments/assets/8a200a25-e5b9-430b-ae65-f9b6e7b19197" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/7c80a9b2-7c1c-41f3-beaa-ec16bfaa6fdc" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/94c987d5-3f69-4b51-8d14-81a23b223cf2" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/b4cc4533-d46f-4e9e-9434-dc93105d72f6" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/f9318b40-e051-4af1-b838-8907bc580aaa" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/0e7514e1-af0c-4532-88a6-0a5489a0b349" width="325" height="250">
 ### MySQL Configuration
 
 7. **Start Configuration Wizard by clicking next**
