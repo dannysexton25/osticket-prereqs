@@ -92,6 +92,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
+Follow the steps below to install the **IIS URL Rewrite Module**:
+
+1. **Download the Installer**  
+   Click to download `rewrite_amd64_en-US.msi` from the official Microsoft site.
+
+2. **Launch the Installer**  
+   Double-click the downloaded `.msi` file to begin installation. Click **Next** on the setup wizard.
+
+3. **Accept the License Agreement**  
+   Select **I Agree**, then click **Install** to begin the installation.
+> 💡 *Note: All required areas have been highlighted for your convenience.*
+
+
 </p>
 <br />
 
