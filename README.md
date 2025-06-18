@@ -15,6 +15,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -103,6 +104,12 @@ Follow the steps below to install the **IIS URL Rewrite Module**:
 3. **Accept the License Agreement**  
    Select **I Agree**, then click **Install** to begin the installation.
 > 💡 *Note: All required areas have been highlighted for your convenience.*
+## 4. Create a Directory for PHP on the local hard drive.
+
+<img src="https://github.com/user-attachments/assets/91fa0138-72d8-4073-873f-e418152114d2" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/0e776c63-a7f7-4ca9-9c7a-070ac9d95401" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/b359c1ff-58a7-4c75-b2dc-bb5daef1977e" width="325" height="250">
+
 
 
 </p>
