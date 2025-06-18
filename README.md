@@ -49,14 +49,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img src="https://github.com/user-attachments/assets/928bf796-15c7-493b-ba20-35ee05ce3cb2" width="325" height="250"><img src="https://github.com/user-attachments/assets/b5e90ae2-7853-42b7-b190-138c3eac8c76" width="325" height="250"><img src="https://github.com/user-attachments/assets/a343f202-6651-4758-ab9f-32e94c4e309e" width="325" height="250">
 
-
-
-
-
-
-
-
- 
   ### 📋Installation Instructions
 
   1. **Open the Control Panel** 
@@ -94,7 +86,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/user-attachments/assets/111d2b62-980b-4087-86c5-9a9097671bdd" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/e80d0861-f975-4e09-b5bb-7bfac015f960" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/bbba7b0f-7ceb-43e6-a12e-9881b648c6ac" width="325" height="250">
-
+ 
+ ### 📋Installation Instructions
 1. **Download the Installer**  
    Click to download `rewrite_amd64_en-US.msi` from the official Microsoft site.
 
@@ -109,7 +102,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/user-attachments/assets/91fa0138-72d8-4073-873f-e418152114d2" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/0e776c63-a7f7-4ca9-9c7a-070ac9d95401" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/b359c1ff-58a7-4c75-b2dc-bb5daef1977e" width="325" height="250">
-
+ 
+ ### 📋Installation Instructions
 1. **Open File Explorer**  
    Navigate to the local disk where you want to install PHP (usually `C:\`).
 
@@ -129,7 +123,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/user-attachments/assets/3f52dc6b-c17e-40cf-9487-5491956bb833" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/6e9a41e3-adac-4646-a795-3c080f76a773" width="325" height="250">
 
-### Steps:
+ ### 📋Installation Instructions
 
 1. **Download PHP 7.3.8**  
    Go to the PHP download page and get the file:  
@@ -159,9 +153,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ## 6. Download and Install VC_redist.x86.exe
 
 This step installs the **Visual C++ Redistributable**, which is required for PHP to run.
-
-### Steps:
-
+ ### 📋Installation Instructions
 1. **Download the Installer**  
    Go to the official Microsoft website and download `VC_redist.x86.exe`.
 
@@ -172,7 +164,7 @@ This step installs the **Visual C++ Redistributable**, which is required for PHP
    - Click **Install** to begin the installation
 > 💡 *Note: All required areas have been highlighted for your convenience.*
 > ✅ *Once the installation completes, you're ready for the next step!*
-
+## 7. Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi).
 
 
 
