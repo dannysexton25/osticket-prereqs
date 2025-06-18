@@ -151,7 +151,7 @@ Follow these steps to create a dedicated folder for PHP files:
 
    4. **Choose the Destination Folder**  
    In the extract window, set the location to `C:\PHP`.
-> 💡 *Note: You can do this by browsing for the location or by simply typing C:\PHP in the box.*
+> 💡 *Note: You can either browse to the location manually or simply type C:\PHP into the box.*
  5. **Start the Extraction**  
    Click **Extract** to begin unzipping the files.
 
