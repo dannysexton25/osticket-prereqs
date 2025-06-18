@@ -131,6 +131,13 @@ Follow these steps to create a dedicated folder for PHP files:
 
 ## 5. Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP folder (The folder we created in the previous step)
 
+<img src="https://github.com/user-attachments/assets/cfb2ac8d-ace3-4564-b84b-253399dadb52" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/c9039356-4033-42db-9d40-b28b4077e379" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/ca1e6690-0e95-4e67-92f0-520d749e96a8" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/73907091-e1a7-44c7-8dc6-e400ca637f9c" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/3f52dc6b-c17e-40cf-9487-5491956bb833" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/6e9a41e3-adac-4646-a795-3c080f76a773" width="325" height="250">
+
 
 </p>
 <br />
