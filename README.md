@@ -129,14 +129,36 @@ Follow these steps to create a dedicated folder for PHP files:
 > 💡 *Note: All required areas have been highlighted for your convenience.*
 > ✅ *Tip: This folder will be used later to store PHP runtime files.*
 
-## 5. Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP folder (The folder we created in the previous step)
-
+## 5. Download the PHP zip package and extract it into the `C:\PHP` folder you created earlier. 
 <img src="https://github.com/user-attachments/assets/cfb2ac8d-ace3-4564-b84b-253399dadb52" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/c9039356-4033-42db-9d40-b28b4077e379" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/ca1e6690-0e95-4e67-92f0-520d749e96a8" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/73907091-e1a7-44c7-8dc6-e400ca637f9c" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/3f52dc6b-c17e-40cf-9487-5491956bb833" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/6e9a41e3-adac-4646-a795-3c080f76a773" width="325" height="250">
+
+### Steps:
+
+1. **Download PHP 7.3.8**  
+   Go to the PHP download page and get the file:  
+   `php-7.3.8-nts-Win32-VC15-x86.zip`
+
+2. **Open the Download Location**  
+   After the download finishes, go to your Downloads folder.
+
+3. **Extract the ZIP File**  
+   Right-click the downloaded zip file and choose **Extract All...**
+
+   4. **Choose the Destination Folder**  
+   In the extract window, set the location to `C:\PHP`.
+> 💡 *Note: You can do this by browsing for the location or by simply typing C:\PHP in the box.*
+ 5. **Start the Extraction**  
+   Click **Extract** to begin unzipping the files.
+
+  6. **Verify the Files**  
+   Once finished, open `C:\PHP` and confirm the PHP files are there.
+> 💡 *Note: All required areas have been highlighted for your convenience.*
+> ✅ *You now have PHP 7.3.8 ready to configure in IIS!*
 
 
 </p>
