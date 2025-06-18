@@ -47,6 +47,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
+
+
+
  
   ### 📋Installation Instructions
 
@@ -81,6 +84,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 3. Accept the license agreement by selecting **I Agree**, then click **Next** to continue.
 > 💡 *Note: All required areas have been highlighted for your convenience.*
 ## 3. Download and Install the Rewrite Module (rewrite_amd64_en-US.msi)
+
+<img src="https://github.com/user-attachments/assets/111d2b62-980b-4087-86c5-9a9097671bdd" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/e80d0861-f975-4e09-b5bb-7bfac015f960" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/bbba7b0f-7ceb-43e6-a12e-9881b648c6ac" width="325" height="250">
+
 
 
 
