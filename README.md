@@ -124,6 +124,7 @@ Follow these steps to create a dedicated folder for PHP files:
 > 💡 *Note: All required areas have been highlighted for your convenience.*
 > ✅ *Tip: This folder will be used later to store PHP runtime files.*
 
+## 5. Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP folder (The folder we created in the previous step)
 
 
 </p>
