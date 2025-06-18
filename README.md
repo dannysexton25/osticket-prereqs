@@ -153,6 +153,27 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 > ✅ *You now have PHP 7.3.8 ready to configure in IIS!*
 
 ## 6. Download and Install VC_redist.x86.exe.
+<img src="https://github.com/user-attachments/assets/135e1417-946a-47b2-baad-b394c8d65e65" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/5e8d4fa3-c6c4-483c-a1c9-ffe32c30e127" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/25a2489b-abd2-4c54-bf51-1e3844751b1c" width="325" height="250">
+## 6. Download and Install VC_redist.x86.exe
+
+This step installs the **Visual C++ Redistributable**, which is required for PHP to run.
+
+### Steps:
+
+1. **Download the Installer**  
+   Go to the official Microsoft website and download `VC_redist.x86.exe`.
+
+2. **Run the Installer**  
+   Once downloaded, double-click the file to launch the installer.
+3. **Accept and Install**  
+   - Check the box to agree to the license terms  
+   - Click **Install** to begin the installation
+> 💡 *Note: All required areas have been highlighted for your convenience.*
+> ✅ *Once the installation completes, you're ready for the next step!*
+
+
 
 
 </p>
