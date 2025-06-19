@@ -37,6 +37,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
+
+
+
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -296,9 +300,60 @@ Install MySQL 5.5.62 to set up your local database.
      osTicket
      ```
   <img src="https://github.com/user-attachments/assets/51d11f0a-97bc-40a0-8632-05d114b69e91" width="325" height="250">
+ 
  **Restart IIS** *(Optional but recommended)*  
    > 💡 *Note: All required areas have been highlighted for your convenience.*
+
 > ✅ The osTicket files are now in place and ready for installation via your browser.
+
+## ✅ Enable Required PHP Extensions for osTicket in IIS
+
+After setting up the osTicket files, follow these steps to launch the installer and enable required PHP extensions.
+
+---
+
+<img src="https://github.com/user-attachments/assets/4ec46579-bca6-4087-abc9-e8d5d12754fa" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/b99624db-0dba-46da-a6c5-acd1bcab9add" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/b4e5056f-4efa-45c5-9aed-8c66a5cc9ce6" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/fcc45596-3328-4075-9435-b7acb109874a" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/b8662161-4528-42ef-b9c1-abd26f22002d" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/8637e94d-e138-476f-8424-38d009c7abfe" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/de89c52e-faab-4f36-b306-ed0b0e5a4456" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/8df06b0c-d546-41a7-b379-49540e9455fd" width="325" height="250">
+---
+
+### 📝 Steps
+
+1. **Open osTicket in Your Browser**  
+   - In IIS Manager, go to:  
+     ```
+     Sites → Default Web Site → osTicket
+     ```
+   - On the right-hand panel, click **“Browse \*:80 (http)”** to open osTicket in your browser.
+
+2. **Notice PHP Extension Warnings**  
+   - The installer will warn you that some PHP extensions are missing or disabled.
+
+3. **Enable PHP Extensions Using PHP Manager**  
+   - In IIS Manager, go back to:
+     ```
+     Sites → Default Web Site → osTicket
+     ```
+   - Double-click **PHP Manager** in the middle panel.
+   - Click **"Enable or disable an extension"**.
+
+4. **Enable the Following Extensions**  
+   - Scroll and enable these extensions:
+     - ✅ `php_imap.dll`
+     - ✅ `php_intl.dll`
+     - ✅ `php_opcache.dll`
+
+5. **Refresh the osTicket Installer Page**  
+   - Go back to your browser and refresh the osTicket page.
+   - The warnings should now be gone.
+
+> ✅ PHP extensions are now enabled, and you're ready to continue with the osTicket setup.
+
 
    
 
