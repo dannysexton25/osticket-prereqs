@@ -353,8 +353,8 @@ After setting up the osTicket files, follow these steps to launch the installer 
    - The warnings should now be gone.
 
 > ✅ PHP extensions are now enabled, and you're ready to continue with the osTicket setup.
-
-
+> 💡 *Note: All required areas have been highlighted for your convenience.*
+---
    
 
 
