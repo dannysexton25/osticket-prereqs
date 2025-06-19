@@ -395,6 +395,48 @@ ost-config.php
 > 💡 *Note: All required areas have been highlighted for your convenience.*
 > ✅ The config file is now in place, and you can continue the installation.
 ---
+## 🔐 Set Permissions for `ost-config.php`
+
+You need to give proper permissions to the `ost-config.php` file so osTicket can access it.
+
+---
+
+<img src="https://github.com/user-attachments/assets/3a058409-21a7-45d1-8772-784a2f7fdd59" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/3ba96896-0bc5-4495-bdef-d44edbbccdec" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/b13ce206-5e6d-4fe0-a9b3-c5cb0d8c16c5" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/868dcb45-3072-4076-b86d-c736d62530ee" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/c9060c54-1840-49bf-a022-25366bd97dfd" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/850d4558-2230-4ff7-b6f1-226934122310" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/75ffdec1-4ab1-4f75-92c1-e0bd9af99a69" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/d8a03c2a-bc36-43cd-bbbd-08730fdee16d" width="325" height="250">
+
+---
+
+### 📝 Steps
+
+1. **Right-click** on `ost-config.php`  
+   Located in:C:\inetpub\wwwroot\osTicket\include  
+
+2. Click **Properties**
+
+3. Go to the **Security** tab
+
+4. Click the **Advanced** button
+
+5. Click **Disable inheritance**
+
+6. In the prompt, click **Remove all inherited permissions from this object**
+
+7. Click **Add** → **Select a principal**
+
+8. Type `Everyone` → Click **Check Names** → Click **OK**
+
+9. Under **Basic permissions**, check:✔ Full control  
+
+10. Click **OK** on all windows to apply changes
+
+
+> ✅ The `ost-config.php` file now has the correct permissions for osTicket to continue installation.
 
 
 
