@@ -226,19 +226,15 @@ Install MySQL 5.5.62 to set up your local database.
 12. **Finish Setup**
 > 💡 *Note: All required areas have been highlighted for your convenience.*
 > ✅ *MySQL is now installed and ready to use!*
-## Register PHP in IIS Using PHP Manager
-
-
+## 8. Register PHP in IIS Using PHP Manager
 ---
 
-### 📸 Screenshots
 <img src="https://github.com/user-attachments/assets/2ec2f0f5-db13-471f-8626-050033d6fea8" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/522b6517-2182-4cc6-9eee-2b131d49ab5e" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/1ae9c9f7-694d-4f00-8db8-87d9e7d91fa8" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/69a799f6-2958-434f-9b0b-97b1a4089b8f" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/3fe2a099-9aa6-4bc0-b7cf-76e541da621a" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/fc33429f-16aa-426b-b776-e07c06e42811" width="325" height="250">
-
 ---
 
 ### 📝 Steps
@@ -266,7 +262,7 @@ Install MySQL 5.5.62 to set up your local database.
 7. **Restart IIS** *(Optional but recommended)*  
    Open Command Prompt as Administrator and run:
 > 💡 *Note: All required areas have been highlighted for your convenience.*
-   
+## 9. Install osTicket v1.15.8   
    
 
 
