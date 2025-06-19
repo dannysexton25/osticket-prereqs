@@ -33,6 +33,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
+
+
+
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -256,13 +260,46 @@ Install MySQL 5.5.62 to set up your local database.
    After selecting, you'll see the PHP version listed in PHP Manager.  
 
 6. **Check phpinfo()** *(Optional)*  
-   Click **Check phpinfo()** to ensure PHP is correctly configured.  
+   Click **Check phpinfo** to ensure PHP is correctly configured.  
   <img src="https://github.com/user-attachments/assets/51d11f0a-97bc-40a0-8632-05d114b69e91" width="325" height="250">
 
 7. **Restart IIS** *(Optional but recommended)*  
-   Open Command Prompt as Administrator and run:
-> 💡 *Note: All required areas have been highlighted for your convenience.*
+   > 💡 *Note: All required areas have been highlighted for your convenience.*
 ## 9. Install osTicket v1.15.8   
+<img src="https://github.com/user-attachments/assets/f7725c35-374a-463c-b011-775c89020829" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/b80fabd8-0d1f-40ce-a62a-f1f4ad5761f2" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/c0ef0f3d-4926-41e4-bacb-8143f6e96d47" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/f8452298-0516-4fe7-91c0-b4a3c0b38fc2" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/1a3ada2c-d5ce-49eb-a9e3-222782b2adbb" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/c4dec065-2375-4f6a-8d68-f0a1e426eb03" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/a2379a72-6649-47a0-8845-16ba65cbf673" width="325" height="250">
+
+### 📝 Steps
+
+1. **Download osTicket v1.15.8**  
+   - Download the ZIP file from the [osTicket GitHub Releases](https://github.com/osTicket/osTicket/releases).
+
+2. **Extract the ZIP File**  
+   - Right-click the downloaded `.zip` file and select **Extract All**.
+
+3. **Copy the `upload` Folder to the IIS Root**  
+   - Open the extracted folder, locate the `upload` directory.  
+   - Copy the entire `upload` folder.  
+   - Paste it into the IIS root folder located at:  
+     ```
+     C:\inetpub\wwwroot
+     ```
+
+4. **Rename the Folder**  
+   - Rename the `upload` folder to:  
+     ```
+     osTicket
+     ```
+  <img src="https://github.com/user-attachments/assets/51d11f0a-97bc-40a0-8632-05d114b69e91" width="325" height="250">
+ **Restart IIS** *(Optional but recommended)*  
+   > 💡 *Note: All required areas have been highlighted for your convenience.*
+> ✅ The osTicket files are now in place and ready for installation via your browser.
+
    
 
 
