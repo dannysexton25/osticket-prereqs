@@ -41,6 +41,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
+
+
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -355,7 +358,43 @@ After setting up the osTicket files, follow these steps to launch the installer 
 > ✅ PHP extensions are now enabled, and you're ready to continue with the osTicket setup.
 > 💡 *Note: All required areas have been highlighted for your convenience.*
 ---
-   
+ ## Rename Configuration File for osTicket
+
+Before continuing the installation, you need to rename the sample config file.
+
+---
+
+<img src="https://github.com/user-attachments/assets/f8452298-0516-4fe7-91c0-b4a3c0b38fc2" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/1a3ada2c-d5ce-49eb-a9e3-222782b2adbb" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/6b62f6a0-ceae-48fa-b9c4-694be988ee7b" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/ce0e7717-59ac-4604-8a47-11de89c1ead3" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/5afb5b8d-f5f9-4344-a3e6-f08fde8a2745" width="325" height="250">
+
+
+---
+
+### 📝 Steps
+
+1. **Navigate to the osTicket `include` folder:**
+C:\inetpub\wwwroot\osTicket\include
+
+
+2. **Find the file named:**
+ost-sampleconfig.php
+
+
+3. **Rename it to:**
+  ```
+ost-config.php
+  ```
+
+
+
+4. **Go back to your browser and refresh the osTicket installer page.**
+
+> 💡 *Note: All required areas have been highlighted for your convenience.*
+> ✅ The config file is now in place, and you can continue the installation.
+---
 
 
 
