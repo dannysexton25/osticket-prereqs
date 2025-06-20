@@ -499,7 +499,42 @@ You need to give proper permissions to the `ost-config.php` file so osTicket can
 > ✅ **HeidiSQL is now installed and ready to use.**  
 > If you checked the box to launch it after installation, it should open automatically.  
 > Otherwise, you can start it manually from the **Start Menu** or **desktop shortcut**.
+---
+## 🗃️ Create the osTicket Database in HeidiSQL
 
+This step sets up the MySQL database that osTicket will use.
+
+---
+
+<img src="https://github.com/user-attachments/assets/299aefce-f6d1-4bf7-8959-dd827573b40d" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/988f8894-8e6c-49dc-b01d-a384bb797c9a" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/c7d3ce7d-ed55-40a5-8dea-f059310c19c9" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/f525f8cc-e208-4288-b14b-b0145e38ee59" width="325" height="250">
+
+---
+
+### 📝 Instructions
+
+1. **Open HeidiSQL**  
+   - Launch the application from the **Start Menu** or **desktop shortcut**.
+
+2. **Create a New Session**  
+   - Click **New**, enter a name for your session.
+   - For **User**, enter `root`.  
+   - For **Password**, enter the one you set during MySQL installation (it may not be `root`).
+
+3. **Connect to the Session**  
+   - Click **Open** to connect.
+
+4. **Create a New Database**  
+   - Right-click your connection in the left pane.
+   - Select **Create new → Database**.
+   - Name it `osTicket` and click **OK**.
+```
+osTicket
+```
+> 💡 *Note: All required areas have been highlighted for your convenience.*
+---
 
 
 
