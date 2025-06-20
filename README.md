@@ -209,9 +209,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 > ✅ *You now have PHP 7.3.8 ready to configure in IIS!*
 ---
 ## 6. Download and Install VC_redist.x86.exe.
-<img src="https://github.com/user-attachments/assets/135e1417-946a-47b2-baad-b394c8d65e65" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/5e8d4fa3-c6c4-483c-a1c9-ffe32c30e127" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/25a2489b-abd2-4c54-bf51-1e3844751b1c" width="325" height="250">
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/135e1417-946a-47b2-baad-b394c8d65e65" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/5e8d4fa3-c6c4-483c-a1c9-ffe32c30e127" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/25a2489b-abd2-4c54-bf51-1e3844751b1c" width="325" height="250"></td>
+    <td></td>
+  </tr>
+</table>
+
+> 📌 Follow the screenshots from **left to right, top to bottom** to install VC_redist.x86.exe.
+
+> 💡 *Note: All required areas have been highlighted for your convenience.*
+
 
 This step installs the **Visual C++ Redistributable**, which is required for PHP to run.
  ### 📋Installation Instructions
@@ -223,7 +236,7 @@ This step installs the **Visual C++ Redistributable**, which is required for PHP
 3. **Accept and Install**  
    - Check the box to agree to the license terms  
    - Click **Install** to begin the installation
-> 💡 *Note: All required areas have been highlighted for your convenience.*
+
 > ✅ *Once the installation completes, you're ready for the next step!*
 ---
 ## 7. Download, Install, and Configure MySQL 5.5.62
@@ -245,6 +258,7 @@ This step installs the **Visual C++ Redistributable**, which is required for PHP
 
 > 📌 Follow the screenshots from **left to right, top to bottom** to install and configure MySQL 5.5.62.
 
+> 💡 *Note: All required areas have been highlighted for your convenience.*
 Install MySQL 5.5.62 to set up your local database.
 
 ### 📋Installation Instructions
@@ -265,12 +279,25 @@ Install MySQL 5.5.62 to set up your local database.
    Click **Finish** when done.
 ---
 ### MySQL Configuration
-<img src="https://github.com/user-attachments/assets/8a200a25-e5b9-430b-ae65-f9b6e7b19197" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/7c80a9b2-7c1c-41f3-beaa-ec16bfaa6fdc" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/94c987d5-3f69-4b51-8d14-81a23b223cf2" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/b4cc4533-d46f-4e9e-9434-dc93105d72f6" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/f9318b40-e051-4af1-b838-8907bc580aaa" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/0e7514e1-af0c-4532-88a6-0a5489a0b349" width="325" height="250">
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/8a200a25-e5b9-430b-ae65-f9b6e7b19197" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/7c80a9b2-7c1c-41f3-beaa-ec16bfaa6fdc" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/94c987d5-3f69-4b51-8d14-81a23b223cf2" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/b4cc4533-d46f-4e9e-9434-dc93105d72f6" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f9318b40-e051-4af1-b838-8907bc580aaa" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/0e7514e1-af0c-4532-88a6-0a5489a0b349" width="325" height="250"></td>
+  </tr>
+</table>
+
+> 📌 Follow the screenshots from **left to right, top to bottom** to complete your MySQL configuration.
+
+> 💡 *Note: All required areas have been highlighted for your convenience.*
 
 7. **Start Configuration Wizard by clicking next**
 
@@ -285,18 +312,30 @@ Install MySQL 5.5.62 to set up your local database.
 11. **Execute to Apply Settings**
 
 12. **Finish Setup**
-> 💡 *Note: All required areas have been highlighted for your convenience.*
+
 > ✅ *MySQL is now installed and ready to use!*
 ---
 ## 8. Register PHP in IIS Using PHP Manager
----
 
-<img src="https://github.com/user-attachments/assets/2ec2f0f5-db13-471f-8626-050033d6fea8" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/522b6517-2182-4cc6-9eee-2b131d49ab5e" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/1ae9c9f7-694d-4f00-8db8-87d9e7d91fa8" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/69a799f6-2958-434f-9b0b-97b1a4089b8f" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/3fe2a099-9aa6-4bc0-b7cf-76e541da621a" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/fc33429f-16aa-426b-b776-e07c06e42811" width="325" height="250">
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/2ec2f0f5-db13-471f-8626-050033d6fea8" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/522b6517-2182-4cc6-9eee-2b131d49ab5e" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/1ae9c9f7-694d-4f00-8db8-87d9e7d91fa8" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/69a799f6-2958-434f-9b0b-97b1a4089b8f" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/3fe2a099-9aa6-4bc0-b7cf-76e541da621a" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/fc33429f-16aa-426b-b776-e07c06e42811" width="325" height="250"></td>
+  </tr>
+</table>
+
+> 📌 Follow the screenshots from **left to right, top to bottom** to register PHP in IIS using PHP Manager.
+
+> 💡 *Note: All required areas have been highlighted for your convenience.*
+
 ---
 
 ### 📝 Steps
@@ -322,7 +361,7 @@ Install MySQL 5.5.62 to set up your local database.
   <img src="https://github.com/user-attachments/assets/51d11f0a-97bc-40a0-8632-05d114b69e91" width="325" height="250">
 
 7. **Restart IIS** *(Optional but recommended)*  
-   > 💡 *Note: All required areas have been highlighted for your convenience.*
+
 ---
 ## 9. Install osTicket v1.15.8   
 
