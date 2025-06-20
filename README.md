@@ -1,70 +1,36 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+  <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo" />
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+#  osTicket - Prerequisites and Installation tutorial
 
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system **osTicket**.
 
+---
 
+## 🖥️ Environments and Technologies Used
 
+- **Microsoft Azure** – Virtual Machines (Compute)
+- **Remote Desktop** – for accessing VMs
+- **Internet Information Services (IIS)** – Web server for hosting osTicket
 
+---
 
+## 🧠 Operating Systems Used
 
+- **Windows 10** (Version 21H2)
 
+---
 
+## ✅ List of Prerequisites
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h2>Environments and Technologies Used</h2>
-
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
-
-<h2>Operating Systems Used </h2>
-
-- Windows 10</b> (21H2)
-
-<h2>List of Prerequisites</h2>
-
-- Item PHP Manager for IIS
-- Item Rewrite Module
-- Item PHP 7.3.8
-- Item VC_redist.x86.exe
-- Item MySQL 5.5.62
-- Item HeidiSQL
-- Item osTicket-v1.15.8.zip
+- PHP Manager for IIS  
+- Rewrite Module  
+- PHP 7.3.8  
+- VC_redist.x86.exe  
+- MySQL 5.5.62  
+- HeidiSQL  
+- osTicket v1.15.8 `.zip`  
 
 ## Installation Steps:
 
@@ -97,6 +63,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 > 💡 *Note: All required areas have been highlighted for your convenience.*
 
+---
 ## 2. Download and Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 
 <img src="https://github.com/user-attachments/assets/b5639352-dd84-410b-89ba-6d554272cb4b" width="325" height="250"><img src="https://github.com/user-attachments/assets/a1ae1aaf-a508-4eec-a4c4-b1edcf5a7bb2" width="325" height="250"><img src="https://github.com/user-attachments/assets/6d1a6bff-267c-47f9-ab35-3dca2397feda" width="325" height="250">
@@ -106,6 +73,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 2. Click **Next** to begin the installation.
 3. Accept the license agreement by selecting **I Agree**, then click **Next** to continue.
 > 💡 *Note: All required areas have been highlighted for your convenience.*
+---
 ## 3. Download and Install the Rewrite Module (rewrite_amd64_en-US.msi)
 
 <img src="https://github.com/user-attachments/assets/111d2b62-980b-4087-86c5-9a9097671bdd" width="325" height="250">
@@ -122,6 +90,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 3. **Accept the License Agreement**  
    Select **I Agree**, then click **Install** to begin the installation.
 > 💡 *Note: All required areas have been highlighted for your convenience.*
+---
 ## 4. Create a Directory for PHP on the local hard drive.
 
 <img src="https://github.com/user-attachments/assets/91fa0138-72d8-4073-873f-e418152114d2" width="325" height="250">
@@ -139,7 +108,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
    Type `PHP` as the folder name and press **Enter**.
 > 💡 *Note: All required areas have been highlighted for your convenience.*
 > ✅ *Tip: This folder will be used later to store PHP runtime files.*
-
+---
 ## 5. Download the PHP zip package and extract it into the `C:\PHP` folder you created earlier. 
 <img src="https://github.com/user-attachments/assets/cfb2ac8d-ace3-4564-b84b-253399dadb52" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/c9039356-4033-42db-9d40-b28b4077e379" width="325" height="250">
@@ -170,12 +139,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
    Once finished, open `C:\PHP` and confirm the PHP files are there.
 > 💡 *Note: All required areas have been highlighted for your convenience.*
 > ✅ *You now have PHP 7.3.8 ready to configure in IIS!*
-
+---
 ## 6. Download and Install VC_redist.x86.exe.
 <img src="https://github.com/user-attachments/assets/135e1417-946a-47b2-baad-b394c8d65e65" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/5e8d4fa3-c6c4-483c-a1c9-ffe32c30e127" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/25a2489b-abd2-4c54-bf51-1e3844751b1c" width="325" height="250">
-## 6. Download and Install VC_redist.x86.exe
 
 This step installs the **Visual C++ Redistributable**, which is required for PHP to run.
  ### 📋Installation Instructions
@@ -189,6 +157,7 @@ This step installs the **Visual C++ Redistributable**, which is required for PHP
    - Click **Install** to begin the installation
 > 💡 *Note: All required areas have been highlighted for your convenience.*
 > ✅ *Once the installation completes, you're ready for the next step!*
+---
 ## 7.  Download, Install, and Configure MySQL 5.5.62
 <img src="https://github.com/user-attachments/assets/31e9ccb7-d60a-437c-aa1d-178db10fcdd5" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/03d14391-368e-49e5-b23e-194d477dd4c0" width="325" height="250">
@@ -239,6 +208,7 @@ Install MySQL 5.5.62 to set up your local database.
 12. **Finish Setup**
 > 💡 *Note: All required areas have been highlighted for your convenience.*
 > ✅ *MySQL is now installed and ready to use!*
+---
 ## 8. Register PHP in IIS Using PHP Manager
 ---
 
@@ -274,7 +244,9 @@ Install MySQL 5.5.62 to set up your local database.
 
 7. **Restart IIS** *(Optional but recommended)*  
    > 💡 *Note: All required areas have been highlighted for your convenience.*
+---
 ## 9. Install osTicket v1.15.8   
+
 <img src="https://github.com/user-attachments/assets/f7725c35-374a-463c-b011-775c89020829" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/b80fabd8-0d1f-40ce-a62a-f1f4ad5761f2" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/c0ef0f3d-4926-41e4-bacb-8143f6e96d47" width="325" height="250">
@@ -308,9 +280,8 @@ Install MySQL 5.5.62 to set up your local database.
  
  **Restart IIS** *(Optional but recommended)*  
    > 💡 *Note: All required areas have been highlighted for your convenience.*
-
+---
 > ✅ The osTicket files are now in place and ready for installation via your browser.
-
 ## 10. ✅ Enable Required PHP Extensions for osTicket in IIS
 
 After setting up the osTicket files, follow these steps to launch the installer and enable required PHP extensions.
@@ -443,6 +414,7 @@ You need to give proper permissions to the `ost-config.php` file so osTicket can
 
 
 > ✅ The `ost-config.php` file now has the correct permissions for osTicket to continue installation.
+---
 ## 13. 🛠️ Install HeidiSQL
 
 > ⚠️ **Note:** This database is used by **osTicket** for storing tickets, users, settings, and other system data.
