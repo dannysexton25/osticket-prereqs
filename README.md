@@ -44,6 +44,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
+
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -441,6 +443,63 @@ You need to give proper permissions to the `ost-config.php` file so osTicket can
 
 
 > ✅ The `ost-config.php` file now has the correct permissions for osTicket to continue installation.
+## 🛠️ Install HeidiSQL
+
+> ⚠️ **Note:** This database is used by **osTicket** for storing tickets, users, settings, and other system data.
+
+
+---
+
+### Installation Screenshots
+
+<img src="https://github.com/user-attachments/assets/66b55761-c470-40a7-91e2-356251c4b711" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/c6f5f2eb-e7fc-4e8a-8800-09374b60a56e" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/b56d1563-ffdc-473b-8cab-5285b8bfbac7" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/b280568f-82c4-4010-b067-64c258a4042c" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/21b622da-af19-49ae-a4be-e0ac845b8424" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/487b033e-799d-4d90-9df1-87d526749297" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/c3598ed2-626e-4251-9b56-f04705d4c1ac" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/cfb7df67-43e9-4019-9733-44b362f7ecba" width="325" height="250">
+
+---
+
+### 📝 Installation Steps
+
+1. **Download HeidiSQL**  
+   - Go to [https://www.heidisql.com/download.php](https://www.heidisql.com/download.php)
+
+2. **Run the Installer**  
+   - Double-click the downloaded `.exe` file.
+
+3. **Welcome Screen**  
+   - Click **Next** to begin.
+
+4. **License Agreement**  
+   - Select **I accept the agreement**, then click **Next**.
+
+5. **Choose Install Location**  
+   - Default is fine, or choose a custom path. Click **Next**.
+
+6. **Select Components**  
+   - Leave the default options checked and click **Next**.
+
+7. **Start Menu Folder**  
+   - Keep the default name or rename it. Click **Next**.
+
+8. **Ready to Install**  
+   - Click **Install** to start the process.
+
+9. **Installing**  
+   - Wait for the installation to complete.
+
+10. **Finish Setup**  
+   - Click **Finish** once installation is done.
+
+> 💡 *Note: All required areas have been highlighted for your convenience.*
+> ✅ **HeidiSQL is now installed and ready to use.**  
+> If you checked the box to launch it after installation, it should open automatically.  
+> Otherwise, you can start it manually from the **Start Menu** or **desktop shortcut**.
+
 
 
 
