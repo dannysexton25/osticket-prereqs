@@ -555,9 +555,12 @@ osTicket
    - **Default Email**: Enter the email address that will receive customer support messages.
 3. **Database Settings**:
    - **MySQL Database**: `osTicket`
+```
+osTicket
+```  
    - **MySQL Username**: `root` (or the username you created)
    - **MySQL Password**: `root` (or the password you set)
-4. Click **Install Now!**
+5. Click **Install Now!**
 
 ---
 
@@ -565,7 +568,8 @@ osTicket
 > 📌 Be sure to bookmark or save these for future use.
 > 💡 *Note: All required areas have been highlighted for your convenience.*
 ---
-**Thanks for following along!** We hope this guide helped you successfully install and set up osTicket.
+>  **Thanks for following along!** We hope this guide helped you successfully install and set up osTicket.
+
 
 <br />
 
