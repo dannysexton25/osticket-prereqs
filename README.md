@@ -34,11 +34,23 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ## Installation Steps:
 
-## 1. Install / Enable IIS in Windows with CGI 
+## 1. Install / Enable IIS in Windows with CGI
 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/928bf796-15c7-493b-ba20-35ee05ce3cb2" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/b5e90ae2-7853-42b7-b190-138c3eac8c76" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/a343f202-6651-4758-ab9f-32e94c4e309e" width="325" height="250"></td>
+    <td></td>
+  </tr>
+</table>
 
+> 📌 Follow the screenshots from **left to right, top to bottom** to enable IIS and CGI on Windows.
 
-<img src="https://github.com/user-attachments/assets/928bf796-15c7-493b-ba20-35ee05ce3cb2" width="325" height="250"><img src="https://github.com/user-attachments/assets/b5e90ae2-7853-42b7-b190-138c3eac8c76" width="325" height="250"><img src="https://github.com/user-attachments/assets/a343f202-6651-4758-ab9f-32e94c4e309e" width="325" height="250">
+> 💡 *Note: All required areas have been highlighted for your convenience.*
+
 
   ### 📋Installation Instructions
 
@@ -61,7 +73,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 5. **Enable CGI**  
    Check the box for **CGI**, then click **OK** to apply the changes.
 
-> 💡 *Note: All required areas have been highlighted for your convenience.*
+
 
 ---
 ## 2. Download and Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
