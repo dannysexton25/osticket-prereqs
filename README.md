@@ -4,14 +4,21 @@
 
 <div align="center">
 
-# osTicket - Prerequisites and Installation Tutorial
+# 🛠️ osTicket - Prerequisites & Installation
+
+<div align="center">
+
+📘 This guide walks you through setting up the open-source help desk system **osTicket** — from prerequisites to a fully working installation.
 
 </div>
 
 
+</div>
+
+
+
 <div align="center">
 
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system **osTicket**.
 
 </div>
 
