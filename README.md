@@ -158,13 +158,24 @@ This step installs the **Visual C++ Redistributable**, which is required for PHP
 > 💡 *Note: All required areas have been highlighted for your convenience.*
 > ✅ *Once the installation completes, you're ready for the next step!*
 ---
-## 7.  Download, Install, and Configure MySQL 5.5.62
-<img src="https://github.com/user-attachments/assets/31e9ccb7-d60a-437c-aa1d-178db10fcdd5" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/03d14391-368e-49e5-b23e-194d477dd4c0" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/1e153048-fd70-487a-bfff-d9011aa0f1cc" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/7ccb3a01-e875-48f2-80db-29bd146bcaa6" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/43b7670f-0633-40f8-b476-8abe30ad9987" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/c97fdee5-aeef-415e-af63-c0b0fd1253d3" width="325" height="250">
+## 7. Download, Install, and Configure MySQL 5.5.62
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/31e9ccb7-d60a-437c-aa1d-178db10fcdd5" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/03d14391-368e-49e5-b23e-194d477dd4c0" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/1e153048-fd70-487a-bfff-d9011aa0f1cc" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/7ccb3a01-e875-48f2-80db-29bd146bcaa6" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/43b7670f-0633-40f8-b476-8abe30ad9987" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/c97fdee5-aeef-415e-af63-c0b0fd1253d3" width="325" height="250"></td>
+  </tr>
+</table>
+
+> 📌 Follow the screenshots from **left to right, top to bottom** to install and configure MySQL 5.5.62.
 
 Install MySQL 5.5.62 to set up your local database.
 
