@@ -216,13 +216,13 @@ Install MySQL 5.5.62 to set up your local database.
 6. **Finish the Installation**  
    Click **Finish** when done.
 ---
+### MySQL Configuration
 <img src="https://github.com/user-attachments/assets/8a200a25-e5b9-430b-ae65-f9b6e7b19197" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/7c80a9b2-7c1c-41f3-beaa-ec16bfaa6fdc" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/94c987d5-3f69-4b51-8d14-81a23b223cf2" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/b4cc4533-d46f-4e9e-9434-dc93105d72f6" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/f9318b40-e051-4af1-b838-8907bc580aaa" width="325" height="250">
 <img src="https://github.com/user-attachments/assets/0e7514e1-af0c-4532-88a6-0a5489a0b349" width="325" height="250">
-### MySQL Configuration
 
 7. **Start Configuration Wizard by clicking next**
 
@@ -311,7 +311,7 @@ Install MySQL 5.5.62 to set up your local database.
 
 > ✅ The osTicket files are now in place and ready for installation via your browser.
 
-## ✅ Enable Required PHP Extensions for osTicket in IIS
+## 10. ✅ Enable Required PHP Extensions for osTicket in IIS
 
 After setting up the osTicket files, follow these steps to launch the installer and enable required PHP extensions.
 
@@ -360,7 +360,7 @@ After setting up the osTicket files, follow these steps to launch the installer 
 > ✅ PHP extensions are now enabled, and you're ready to continue with the osTicket setup.
 > 💡 *Note: All required areas have been highlighted for your convenience.*
 ---
- ## Rename Configuration File for osTicket
+ ## 11. Rename Configuration File for osTicket
 
 Before continuing the installation, you need to rename the sample config file.
 
@@ -397,7 +397,7 @@ ost-config.php
 > 💡 *Note: All required areas have been highlighted for your convenience.*
 > ✅ The config file is now in place, and you can continue the installation.
 ---
-## 🔐 Set Permissions for `ost-config.php`
+## 12. 🔐 Set Permissions for `ost-config.php`
 
 You need to give proper permissions to the `ost-config.php` file so osTicket can access it.
 
@@ -443,7 +443,7 @@ You need to give proper permissions to the `ost-config.php` file so osTicket can
 
 
 > ✅ The `ost-config.php` file now has the correct permissions for osTicket to continue installation.
-## 🛠️ Install HeidiSQL
+## 13. 🛠️ Install HeidiSQL
 
 > ⚠️ **Note:** This database is used by **osTicket** for storing tickets, users, settings, and other system data.
 
@@ -500,7 +500,7 @@ You need to give proper permissions to the `ost-config.php` file so osTicket can
 > If you checked the box to launch it after installation, it should open automatically.  
 > Otherwise, you can start it manually from the **Start Menu** or **desktop shortcut**.
 ---
-## 🗃️ Create the osTicket Database in HeidiSQL
+## 14. 🗃️ Create the osTicket Database in HeidiSQL
 
 This step sets up the MySQL database that osTicket will use.
 
@@ -535,7 +535,7 @@ osTicket
 ```
 > 💡 *Note: All required areas have been highlighted for your convenience.*
 ---
-## 🌐 Continue Setting Up osTicket in the Browser
+## 15. 🌐 Continue Setting Up osTicket in the Browser
 
 ---
 
