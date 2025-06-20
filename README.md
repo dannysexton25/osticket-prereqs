@@ -430,6 +430,10 @@ You need to give proper permissions to the `ost-config.php` file so osTicket can
 7. Click **Add** → **Select a principal**
 
 8. Type `Everyone` → Click **Check Names** → Click **OK**
+> ⚠️ **Note:**  
+> Adding `Everyone` with full control is **not recommended for production environments**.  
+> We are only doing this here for **testing/demo purposes** to ensure everything works during setup.  
+> For production, set permissions for specific users (e.g., `IIS_IUSRS` or `Network Service`) instead.
 
 9. Under **Basic permissions**, check:✔ Full control  
 
