@@ -76,21 +76,52 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 ---
-## 2. Download and Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 
-<img src="https://github.com/user-attachments/assets/b5639352-dd84-410b-89ba-6d554272cb4b" width="325" height="250"><img src="https://github.com/user-attachments/assets/a1ae1aaf-a508-4eec-a4c4-b1edcf5a7bb2" width="325" height="250"><img src="https://github.com/user-attachments/assets/6d1a6bff-267c-47f9-ab35-3dca2397feda" width="325" height="250">
+
+---
+
+## 2. Download and Install PHP Manager for IIS (PHPManagerForIIS\_V1.5.0.msi)
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b5639352-dd84-410b-89ba-6d554272cb4b" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/a1ae1aaf-a508-4eec-a4c4-b1edcf5a7bb2" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/6d1a6bff-267c-47f9-ab35-3dca2397feda" width="325" height="250"></td>
+    <td></td>
+  </tr>
+</table>
+
+> 📌 Follow the screenshots from **left to right, top to bottom** to install PHP Manager for IIS.
+
+> 💡 *Note: All required areas have been highlighted for your convenience.*
+---
+
 ### 🛠️ PHP Manager for IIS Installation
 
 1. Open **PHPManagerForIIS-V1.5.0**.
 2. Click **Next** to begin the installation.
 3. Accept the license agreement by selecting **I Agree**, then click **Next** to continue.
-> 💡 *Note: All required areas have been highlighted for your convenience.*
+
 ---
 ## 3. Download and Install the Rewrite Module (rewrite_amd64_en-US.msi)
 
-<img src="https://github.com/user-attachments/assets/111d2b62-980b-4087-86c5-9a9097671bdd" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/e80d0861-f975-4e09-b5bb-7bfac015f960" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/bbba7b0f-7ceb-43e6-a12e-9881b648c6ac" width="325" height="250">
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/111d2b62-980b-4087-86c5-9a9097671bdd" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/e80d0861-f975-4e09-b5bb-7bfac015f960" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/bbba7b0f-7ceb-43e6-a12e-9881b648c6ac" width="325" height="250"></td>
+    <td></td>
+  </tr>
+</table>
+
+> 📌 Follow the screenshots from **left to right, top to bottom** to install the IIS Rewrite Module.
+
+> 💡 *Note: All required areas have been highlighted for your convenience.*
+
  
  ### 📋Installation Instructions
 1. **Download the Installer**  
@@ -101,13 +132,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 3. **Accept the License Agreement**  
    Select **I Agree**, then click **Install** to begin the installation.
-> 💡 *Note: All required areas have been highlighted for your convenience.*
+
 ---
 ## 4. Create a Directory for PHP on the local hard drive.
 
-<img src="https://github.com/user-attachments/assets/91fa0138-72d8-4073-873f-e418152114d2" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/0e776c63-a7f7-4ca9-9c7a-070ac9d95401" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/b359c1ff-58a7-4c75-b2dc-bb5daef1977e" width="325" height="250">
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/91fa0138-72d8-4073-873f-e418152114d2" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/0e776c63-a7f7-4ca9-9c7a-070ac9d95401" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b359c1ff-58a7-4c75-b2dc-bb5daef1977e" width="325" height="250"></td>
+    <td></td>
+  </tr>
+</table>
+
+> 📌 Follow the screenshots from **left to right, top to bottom** to create the PHP directory on your local drive.
+
+> 💡 *Note: All required areas have been highlighted for your convenience.*
+
  
  ### 📋Installation Instructions
 1. **Open File Explorer**  
@@ -118,16 +161,29 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 3. **Name the Folder `PHP`**  
    Type `PHP` as the folder name and press **Enter**.
-> 💡 *Note: All required areas have been highlighted for your convenience.*
+
 > ✅ *Tip: This folder will be used later to store PHP runtime files.*
 ---
-## 5. Download the PHP zip package and extract it into the `C:\PHP` folder you created earlier. 
-<img src="https://github.com/user-attachments/assets/cfb2ac8d-ace3-4564-b84b-253399dadb52" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/c9039356-4033-42db-9d40-b28b4077e379" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/ca1e6690-0e95-4e67-92f0-520d749e96a8" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/73907091-e1a7-44c7-8dc6-e400ca637f9c" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/3f52dc6b-c17e-40cf-9487-5491956bb833" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/6e9a41e3-adac-4646-a795-3c080f76a773" width="325" height="250">
+## 5. Download the PHP zip package and extract it into the `C:\PHP` folder you created earlier.
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/cfb2ac8d-ace3-4564-b84b-253399dadb52" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/c9039356-4033-42db-9d40-b28b4077e379" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ca1e6690-0e95-4e67-92f0-520d749e96a8" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/73907091-e1a7-44c7-8dc6-e400ca637f9c" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/3f52dc6b-c17e-40cf-9487-5491956bb833" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/6e9a41e3-adac-4646-a795-3c080f76a773" width="325" height="250"></td>
+  </tr>
+</table>
+
+> 📌 Follow the screenshots from **left to right, top to bottom** to download and extract the PHP zip package into `C:\PHP`.
+
+> 💡 *Note: All required areas have been highlighted for your convenience.*
 
  ### 📋Installation Instructions
 
@@ -149,7 +205,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   6. **Verify the Files**  
    Once finished, open `C:\PHP` and confirm the PHP files are there.
-> 💡 *Note: All required areas have been highlighted for your convenience.*
+
 > ✅ *You now have PHP 7.3.8 ready to configure in IIS!*
 ---
 ## 6. Download and Install VC_redist.x86.exe.
