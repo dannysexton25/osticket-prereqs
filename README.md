@@ -365,13 +365,29 @@ Install MySQL 5.5.62 to set up your local database.
 ---
 ## 9. Install osTicket v1.15.8   
 
-<img src="https://github.com/user-attachments/assets/f7725c35-374a-463c-b011-775c89020829" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/b80fabd8-0d1f-40ce-a62a-f1f4ad5761f2" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/c0ef0f3d-4926-41e4-bacb-8143f6e96d47" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/f8452298-0516-4fe7-91c0-b4a3c0b38fc2" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/1a3ada2c-d5ce-49eb-a9e3-222782b2adbb" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/c4dec065-2375-4f6a-8d68-f0a1e426eb03" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/a2379a72-6649-47a0-8845-16ba65cbf673" width="325" height="250">
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f7725c35-374a-463c-b011-775c89020829" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/b80fabd8-0d1f-40ce-a62a-f1f4ad5761f2" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c0ef0f3d-4926-41e4-bacb-8143f6e96d47" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/f8452298-0516-4fe7-91c0-b4a3c0b38fc2" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/1a3ada2c-d5ce-49eb-a9e3-222782b2adbb" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/c4dec065-2375-4f6a-8d68-f0a1e426eb03" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/a2379a72-6649-47a0-8845-16ba65cbf673" width="325" height="250"></td>
+    <td></td>
+  </tr>
+</table>
+
+> 📌 Follow the screenshots from **left to right, top to bottom** to install osTicket v1.15.8.
+
+> 💡 *Note: All required areas have been highlighted for your convenience.*
+
 
 ### 📝 Steps
 
@@ -397,24 +413,37 @@ Install MySQL 5.5.62 to set up your local database.
   <img src="https://github.com/user-attachments/assets/51d11f0a-97bc-40a0-8632-05d114b69e91" width="325" height="250">
  
  **Restart IIS** *(Optional but recommended)*  
-   > 💡 *Note: All required areas have been highlighted for your convenience.*
+  
 ---
 > ✅ The osTicket files are now in place and ready for installation via your browser.
+
 ## 10. ✅ Enable Required PHP Extensions for osTicket in IIS
 
 After setting up the osTicket files, follow these steps to launch the installer and enable required PHP extensions.
 
----
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/4ec46579-bca6-4087-abc9-e8d5d12754fa" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/b99624db-0dba-46da-a6c5-acd1bcab9add" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b4e5056f-4efa-45c5-9aed-8c66a5cc9ce6" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/fcc45596-3328-4075-9435-b7acb109874a" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b8662161-4528-42ef-b9c1-abd26f22002d" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/8637e94d-e138-476f-8424-38d009c7abfe" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/de89c52e-faab-4f36-b306-ed0b0e5a4456" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/8df06b0c-d546-41a7-b379-49540e9455fd" width="325" height="250"></td>
+  </tr>
+</table>
 
-<img src="https://github.com/user-attachments/assets/4ec46579-bca6-4087-abc9-e8d5d12754fa" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/b99624db-0dba-46da-a6c5-acd1bcab9add" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/b4e5056f-4efa-45c5-9aed-8c66a5cc9ce6" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/fcc45596-3328-4075-9435-b7acb109874a" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/b8662161-4528-42ef-b9c1-abd26f22002d" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/8637e94d-e138-476f-8424-38d009c7abfe" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/de89c52e-faab-4f36-b306-ed0b0e5a4456" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/8df06b0c-d546-41a7-b379-49540e9455fd" width="325" height="250">
----
+> 📌 Follow the screenshots from **left to right, top to bottom** to enable the required PHP extensions in IIS for osTicket.
+
+> 💡 *Note: All required areas have been highlighted for your convenience.*
+
 
 ### 📝 Steps
 
@@ -447,19 +476,31 @@ After setting up the osTicket files, follow these steps to launch the installer 
    - The warnings should now be gone.
 
 > ✅ PHP extensions are now enabled, and you're ready to continue with the osTicket setup.
-> 💡 *Note: All required areas have been highlighted for your convenience.*
+
 ---
- ## 11. Rename Configuration File for osTicket
+## 11. Rename Configuration File for osTicket
 
 Before continuing the installation, you need to rename the sample config file.
 
----
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f8452298-0516-4fe7-91c0-b4a3c0b38fc2" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/1a3ada2c-d5ce-49eb-a9e3-222782b2adbb" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/6b62f6a0-ceae-48fa-b9c4-694be988ee7b" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/ce0e7717-59ac-4604-8a47-11de89c1ead3" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/5afb5b8d-f5f9-4344-a3e6-f08fde8a2745" width="325" height="250"></td>
+    <td></td>
+  </tr>
+</table>
 
-<img src="https://github.com/user-attachments/assets/f8452298-0516-4fe7-91c0-b4a3c0b38fc2" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/1a3ada2c-d5ce-49eb-a9e3-222782b2adbb" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/6b62f6a0-ceae-48fa-b9c4-694be988ee7b" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/ce0e7717-59ac-4604-8a47-11de89c1ead3" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/5afb5b8d-f5f9-4344-a3e6-f08fde8a2745" width="325" height="250">
+> 📌 Follow the screenshots from **left to right, top to bottom** to rename the configuration file required by osTicket.
+
+> 💡 *Note: All required areas have been highlighted for your convenience.*
+
 
 
 ---
@@ -483,23 +524,36 @@ ost-config.php
 
 4. **Go back to your browser and refresh the osTicket installer page.**
 
-> 💡 *Note: All required areas have been highlighted for your convenience.*
+
 > ✅ The config file is now in place, and you can continue the installation.
 ---
 ## 12. 🔐 Set Permissions for `ost-config.php`
 
 You need to give proper permissions to the `ost-config.php` file so osTicket can access it.
 
----
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/3a058409-21a7-45d1-8772-784a2f7fdd59" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/3ba96896-0bc5-4495-bdef-d44edbbccdec" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b13ce206-5e6d-4fe0-a9b3-c5cb0d8c16c5" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/868dcb45-3072-4076-b86d-c736d62530ee" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c9060c54-1840-49bf-a022-25366bd97dfd" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/850d4558-2230-4ff7-b6f1-226934122310" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/75ffdec1-4ab1-4f75-92c1-e0bd9af99a69" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/d8a03c2a-bc36-43cd-bbbd-08730fdee16d" width="325" height="250"></td>
+  </tr>
+</table>
 
-<img src="https://github.com/user-attachments/assets/3a058409-21a7-45d1-8772-784a2f7fdd59" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/3ba96896-0bc5-4495-bdef-d44edbbccdec" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/b13ce206-5e6d-4fe0-a9b3-c5cb0d8c16c5" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/868dcb45-3072-4076-b86d-c736d62530ee" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/c9060c54-1840-49bf-a022-25366bd97dfd" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/850d4558-2230-4ff7-b6f1-226934122310" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/75ffdec1-4ab1-4f75-92c1-e0bd9af99a69" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/d8a03c2a-bc36-43cd-bbbd-08730fdee16d" width="325" height="250">
+> 📌 Follow the screenshots from **left to right, top to bottom** to set proper file permissions for `ost-config.php`.
+
+> 💡 *Note: All required areas have been highlighted for your convenience.*
+
 
 ---
 
@@ -535,21 +589,25 @@ You need to give proper permissions to the `ost-config.php` file so osTicket can
 ---
 ## 13. 🛠️ Install HeidiSQL
 
-> ⚠️ **Note:** This database is used by **osTicket** for storing tickets, users, settings, and other system data.
-
-
----
+> ⚠️ **Note:** This database tool is used by **osTicket** for storing tickets, users, settings, and other system data.
 
 ### Installation Screenshots
 
-<img src="https://github.com/user-attachments/assets/66b55761-c470-40a7-91e2-356251c4b711" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/c6f5f2eb-e7fc-4e8a-8800-09374b60a56e" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/b56d1563-ffdc-473b-8cab-5285b8bfbac7" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/b280568f-82c4-4010-b067-64c258a4042c" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/21b622da-af19-49ae-a4be-e0ac845b8424" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/487b033e-799d-4d90-9df1-87d526749297" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/c3598ed2-626e-4251-9b56-f04705d4c1ac" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/cfb7df67-43e9-4019-9733-44b362f7ecba" width="325" height="250">
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/66b55761-c470-40a7-91e2-356251c4b711" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/c6f5f2eb-e7fc-4e8a-8800-09374b60a56e" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b56d1563-ffdc-473b-8cab-5285b8bfbac7" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/b280568f-82c4-4010-b067-64c258a4042c" width="325" height="250"></td>
+  </tr>
+</table>
+
+> 📌 Follow the screenshots from **left to right, top to bottom** to complete the HeidiSQL installation.
+
+> 💡 *Note: All required areas have been highlighted for your convenience.*
+
 
 ---
 
@@ -585,7 +643,7 @@ You need to give proper permissions to the `ost-config.php` file so osTicket can
 10. **Finish Setup**  
    - Click **Finish** once installation is done.
 
-> 💡 *Note: All required areas have been highlighted for your convenience.*
+
 > ✅ **HeidiSQL is now installed and ready to use.**  
 > If you checked the box to launch it after installation, it should open automatically.  
 > Otherwise, you can start it manually from the **Start Menu** or **desktop shortcut**.
@@ -594,12 +652,20 @@ You need to give proper permissions to the `ost-config.php` file so osTicket can
 
 This step sets up the MySQL database that osTicket will use.
 
----
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/299aefce-f6d1-4bf7-8959-dd827573b40d" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/988f8894-8e6c-49dc-b01d-a384bb797c9a" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c7d3ce7d-ed55-40a5-8dea-f059310c19c9" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/f525f8cc-e208-4288-b14b-b0145e38ee59" width="325" height="250"></td>
+  </tr>
+</table>
 
-<img src="https://github.com/user-attachments/assets/299aefce-f6d1-4bf7-8959-dd827573b40d" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/988f8894-8e6c-49dc-b01d-a384bb797c9a" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/c7d3ce7d-ed55-40a5-8dea-f059310c19c9" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/f525f8cc-e208-4288-b14b-b0145e38ee59" width="325" height="250">
+> 📌 Follow the screenshots from **left to right, top to bottom** to create the osTicket database in HeidiSQL.
+
+> 💡 *Note: All required areas have been highlighted for your convenience.*
 
 ---
 
@@ -623,17 +689,24 @@ This step sets up the MySQL database that osTicket will use.
 ```
 osTicket
 ```
-> 💡 *Note: All required areas have been highlighted for your convenience.*
+
 ---
 ## 15. 🌐 Continue Setting Up osTicket in the Browser
 
----
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/817e0ddf-80d9-445e-b379-91ff2048d61d" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/a959bfd9-c7d1-4df0-9922-1905d3990869" width="325" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/a2591d87-83ed-47e7-bfcf-92650b9a92ab" width="325" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/d8a2e2e5-0452-4188-b90f-4f9b20c7ae69" width="325" height="250"></td>
+  </tr>
+</table>
 
+> 📌 Follow the screenshots from **left to right, top to bottom** to continue the osTicket setup through your web browser.
 
-<img src="https://github.com/user-attachments/assets/817e0ddf-80d9-445e-b379-91ff2048d61d" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/a959bfd9-c7d1-4df0-9922-1905d3990869" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/a2591d87-83ed-47e7-bfcf-92650b9a92ab" width="325" height="250">
-<img src="https://github.com/user-attachments/assets/d8a2e2e5-0452-4188-b90f-4f9b20c7ae69" width="325" height="250">
+> 💡 *Note: All required areas have been highlighted for your convenience.*
 
 ---
 
@@ -656,7 +729,7 @@ osTicket
 
 > ✅ **Note:** After installation, the login URLs for the admin and client portals will be displayed at the bottom of the page.  
 > 📌 Be sure to bookmark or save these for future use.
-> 💡 *Note: All required areas have been highlighted for your convenience.*
+
 ---
 >  **Thanks for following along!** We hope this guide helped you successfully install and set up osTicket.
 
