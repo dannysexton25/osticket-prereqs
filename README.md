@@ -535,24 +535,38 @@ osTicket
 ```
 > 💡 *Note: All required areas have been highlighted for your convenience.*
 ---
+## 🌐 Continue Setting Up osTicket in the Browser
+
+---
 
 
+<img src="https://github.com/user-attachments/assets/817e0ddf-80d9-445e-b379-91ff2048d61d" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/a959bfd9-c7d1-4df0-9922-1905d3990869" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/a2591d87-83ed-47e7-bfcf-92650b9a92ab" width="325" height="250">
+<img src="https://github.com/user-attachments/assets/d8a2e2e5-0452-4188-b90f-4f9b20c7ae69" width="325" height="250">
 
-</p>
+---
+
+### 📝 Instructions
+
+1. **In your browser**, go to `http://localhost/osTicket` or `http://[your-server-ip]/osTicket`.
+2. Fill in the installation form:
+   - **Helpdesk Name**: Choose a name for your helpdesk (e.g., `My Support Desk`).
+   - **Default Email**: Enter the email address that will receive customer support messages.
+3. **Database Settings**:
+   - **MySQL Database**: `osTicket`
+   - **MySQL Username**: `root` (or the username you created)
+   - **MySQL Password**: `root` (or the password you set)
+4. Click **Install Now!**
+
+---
+
+> ✅ **Note:** After installation, the login URLs for the admin and client portals will be displayed at the bottom of the page.  
+> 📌 Be sure to bookmark or save these for future use.
+> 💡 *Note: All required areas have been highlighted for your convenience.*
+---
+**Thanks for following along!** We hope this guide helped you successfully install and set up osTicket.
+
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
